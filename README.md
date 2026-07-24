@@ -1,134 +1,123 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a5f,100:0891b2&text=Furkan%20Zengin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Web%20%26%20Mobile&descAlignY=60&descSize=18" alt="Furkan Zengin Banner" />
+# Hi 👋, I'm Furkan Zengin
 
-### Software Developer focused on Embedded Systems
+### Software Developer | Embedded Systems Focus
 
-I build modern web, mobile and AI-powered applications while expanding my knowledge of embedded software, microcontrollers and hardware–software interaction.
+I build modern web, mobile and AI-powered applications while developing my skills in embedded systems and low-level software.
 
 <br />
 
-<a href="LINKEDIN_ADRESİN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="PORTFOLYO_ADRESİN">
+<a href="PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:furkanrichdevelopper@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
-<br />
+---
 
-## About Me
+## 🔹 What I Do
 
-- Developing modern **web, mobile and AI-powered applications**
-- Currently focusing on **embedded systems, C/C++ and microcontrollers**
-- Interested in **low-level software and hardware–software interaction**
+- Develop modern **web, mobile and AI-powered applications**
+- Build responsive and maintainable user interfaces
+- Learn **embedded systems, microcontrollers and low-level programming**
+- Focus on clean code, continuous learning and real-world problem solving
 - Open to **internships, junior roles and collaborative projects**
 
-<br />
+---
 
-## Technologies
+## 🛠️ Technologies & Tools
 
-<div align="center">
+### Languages
 
-### Embedded & Core
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Embedded and core technologies" />
-
-<br /><br />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,vite&theme=dark" alt="Web development technologies" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br /><br />
+### Development Tools
 
-### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" />
+---
 
-</div>
+## 🔌 Current Focus
 
-<br />
+I am currently expanding my knowledge in:
 
-## Featured Projects
+- Embedded C and C++
+- Microcontrollers
+- Hardware–software interaction
+- Communication protocols
+- Resource-conscious programming
+- Low-level software development
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My goal is to combine my application development experience with hardware-oriented software projects.
 
-### Agence AI
+---
 
-An AI-oriented digital platform focused on modern product development and user experience.
+## 🚀 Featured Projects
 
-**Focus:** Artificial intelligence, web development and product design
+### [Agence AI](https://github.com/FurkanZenginn/agence-ai)
 
-<a href="https://github.com/FurkanZenginn/agence-ai">
-  <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Agence AI Repository" />
-</a>
+AI-oriented digital product focused on modern application development and user experience.
 
-</td>
+`Artificial Intelligence` `Web Development` `Product Development`
 
-<td width="50%" valign="top">
+---
 
-### HSD Agency
+### [HSD Agency Frontend](https://github.com/FurkanZenginn/hsd-agency-frontend)
 
-A responsive agency platform developed with React, Vite and Tailwind CSS.
+Responsive agency website developed with React, Vite and Tailwind CSS.
 
-**Focus:** Frontend architecture, responsive design and reusable interfaces
+`React` `Vite` `Tailwind CSS` `Responsive Design`
 
-<a href="https://github.com/FurkanZenginn/hsd-agency-frontend">
-  <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="HSD Agency Repository" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### Pupilica AI
 
-A full-stack AI-focused application with separate frontend and backend repositories.
+Full-stack AI-focused application developed with separate frontend and backend repositories.
 
-**Focus:** AI integration, API communication and application development
+[Frontend Repository](https://github.com/FurkanZenginn/PupilicaAIfrontendFinal) ·
+[Backend Repository](https://github.com/FurkanZenginn/PupilicaAIbackendFinal)
 
-<a href="https://github.com/FurkanZenginn/PupilicaAIfrontendFinal">
-  <img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=react&logoColor=white" alt="Pupilica AI Frontend" />
-</a>
-<a href="https://github.com/FurkanZenginn/PupilicaAIbackendFinal">
-  <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=python&logoColor=white" alt="Pupilica AI Backend" />
-</a>
+`AI Integration` `API Communication` `Full-Stack Development`
 
-</td>
+---
 
-<td width="50%" valign="top">
+### BTK AI Project
 
-### Embedded Systems Journey
+AI-powered application developed with separate frontend and backend architecture.
 
-I am currently building my embedded systems portfolio through projects involving microcontrollers, sensors, communication protocols and embedded C/C++.
+[Frontend Repository](https://github.com/FurkanZenginn/btkAIfrontendFinal) ·
+[Backend Repository](https://github.com/FurkanZenginn/btkAIbackendfinal)
 
-**Status:** Projects in development
+`Artificial Intelligence` `Frontend` `Backend`
 
-<img src="https://img.shields.io/badge/Coming_Soon-Embedded_Project-111827?style=for-the-badge&logo=c&logoColor=white" alt="Embedded project coming soon" />
+---
 
-</td>
-</tr>
-</table>
-
-<br />
-
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FurkanZenginn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Furkan's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FurkanZenginn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Furkan's GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanZenginn&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanZenginn&layout=compact&theme=github_dark&hide_border=true" alt="Furkan's most used languages" />
 
 </div>
 
@@ -136,16 +125,33 @@ I am currently building my embedded systems portfolio through projects involving
 
 <div align="center">
 
-## Let's Connect
+<img src="https://streak-stats.demolab.com?user=FurkanZenginn&theme=github-dark-blue&hide_border=true" alt="Furkan's GitHub streak" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
 
 I am open to software development opportunities, embedded systems roles, internships and collaborative projects.
 
-<br />
+<br /><br />
 
-**Building reliable software from interface to hardware.**
+<a href="LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Furkan_Zengin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:furkanrichdevelopper@gmail.com">
+  <img src="https://img.shields.io/badge/Email-furkanrichdevelopper-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<br />
+<br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1e3a5f,100:0891b2" alt="Footer" />
+<img src="https://komarev.com/ghpvc/?username=FurkanZenginn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br /><br />
+
+### Building modern software today, moving closer to the hardware tomorrow.
 
 </div>
