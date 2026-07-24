@@ -71,46 +71,6 @@ My goal is to combine my application development experience with hardware-orient
 
 ---
 
-## 🚀 Featured Projects
-
-### [Agence AI](https://github.com/FurkanZenginn/agence-ai)
-
-AI-oriented digital product focused on modern application development and user experience.
-
-`Artificial Intelligence` `Web Development` `Product Development`
-
----
-
-### [HSD Agency Frontend](https://github.com/FurkanZenginn/hsd-agency-frontend)
-
-Responsive agency website developed with React, Vite and Tailwind CSS.
-
-`React` `Vite` `Tailwind CSS` `Responsive Design`
-
----
-
-### Pupilica AI
-
-Full-stack AI-focused application developed with separate frontend and backend repositories.
-
-[Frontend Repository](https://github.com/FurkanZenginn/PupilicaAIfrontendFinal) ·
-[Backend Repository](https://github.com/FurkanZenginn/PupilicaAIbackendFinal)
-
-`AI Integration` `API Communication` `Full-Stack Development`
-
----
-
-### BTK AI Project
-
-AI-powered application developed with separate frontend and backend architecture.
-
-[Frontend Repository](https://github.com/FurkanZenginn/btkAIfrontendFinal) ·
-[Backend Repository](https://github.com/FurkanZenginn/btkAIbackendfinal)
-
-`Artificial Intelligence` `Frontend` `Backend`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
